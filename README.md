@@ -7,18 +7,20 @@ A responsive and dynamic web application that allows users to search, browse, an
 ## 📖 Project Description
 
 **Khawa Dawa** is a frontend web app designed to provide an engaging experience for users to:
-- Search meals by name
-- Filter meals by category or area (cuisine)
-- View details of individual meals, including ingredients and instructions
-- Get random meal suggestions
-- Browse a complete list of meals with pagination
+
+- 🔍 Search meals by name  
+- 🧭 Filter meals by category or area (cuisine)  
+- 📄 View details of individual meals, including ingredients and instructions  
+- 🎲 Get random meal suggestions  
+- 🗂️ Browse a complete list of meals with pagination  
 
 ---
 
 ## ⚙️ Setup Instructions
 
 ### Prerequisites
-- Node.js (v18+ recommended)
+
+- [Node.js](https://nodejs.org/) (v18+ recommended)
 - npm or yarn
 
 ### Steps
@@ -27,27 +29,20 @@ A responsive and dynamic web application that allows users to search, browse, an
    ```bash
    git clone https://github.com/Akhi005/Khawa-dawa.git
    cd src
-Install dependencies
-
-bash
-Copy
-Edit
+   
+2.**Install dependencies**
+```bash
 npm install
 # or
 yarn install
-Start the development server
 
-bash
-Copy
-Edit
+3.**Start the development server**
+```bash
 npm run dev
 # or
 yarn dev
-Build for production
-
-bash
-Copy
-Edit
+4.**Build for production**
+```bash
 npm run build
 # or
 yarn build
@@ -80,8 +75,6 @@ Axios — HTTP client for API requests
 TheMealDB API — Public API for meal data
 
 🚀 Live Demo
-
-🔗 [Live Demo Here](https://khawa-dawa-gamma.vercel.app/)
-
+🔗 Live Demo Here
 📧 Contact
 For feedback or inquiries, please contact: kohinooraktherakhi5539@gmail.com
