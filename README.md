@@ -26,7 +26,7 @@ A responsive and dynamic web application that allows users to search, browse, an
 1. **Clone the repository**
    ```bash
    git clone https://github.com/Akhi005/Khawa-dawa.git
-   cd sr
+   cd src
 Install dependencies
 
 bash
