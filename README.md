@@ -65,7 +65,7 @@ A responsive and dynamic web application that allows users to search, browse, an
 - 🧭 **Filter Meals**: Filter meals by category (e.g., Beef, Dessert) or by area (e.g., Italian, Chinese).
 - 🎲 **Random Meal Generator**: Discover something new with the "Surprise Me" feature.
 - 📄 **Meal Details Page**: View full recipe instructions, ingredients and embedded YouTube videos.
-- 🗂️ **All Meals Page**: Paginated display of meals with sorting and filtering capabilities.
+- 🗂️ **All Meals Page**: Paginated display of meals with filtering capabilities.
 - 📱 **Responsive UI**: Fully responsive design for mobile, tablet and desktop.
 
 ---
