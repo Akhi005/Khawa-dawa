@@ -12,7 +12,7 @@ export default function Navbar() {
     <nav className="bg-white shadow-md px-6 py-4 sticky top-0 z-50">
       <div className="max-w-7xl mx-auto flex justify-between items-center">
         <Logo />
-        <div className="hidden md:flex gap-8 text-xl text-gray-800 font-semibold">
+        <div className="hidden md:flex gap-8 text-xl text-gray-800 font-semibold items-center">
           <Link to="/" className="hover:text-red-500 transition">
             Home
           </Link>
@@ -24,6 +24,9 @@ export default function Navbar() {
           </Link>
           <Link to="/ingredients" className="hover:text-red-500 transition">
             Ingredients
+          </Link>
+          <Link to="/random" className="hover:bg-red-700 text-white p-2 text-sm transition bg-red-600 border rounded-full">
+            Surprise Me
           </Link>
         </div>
         <button

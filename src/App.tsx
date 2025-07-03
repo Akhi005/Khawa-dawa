@@ -7,6 +7,7 @@ import Footer from './components/Footer';
 import CategoryMealsPage from './pages/CategoryMealsPage';
 import BookmarkList from './pages/BookmarkList';
 import IngredientsPage from './pages/Ingredients';
+import RandomMeal from './pages/RandomMeal'
 
 export default function App() {
   const location = useLocation();
@@ -26,6 +27,7 @@ export default function App() {
           />
           <Route path="/favourite" element={<BookmarkList />} />
           <Route path="/ingredients" element={<IngredientsPage />} />
+          <Route path="/random" element={<RandomMeal />} />
         </Routes>
       </main>
       <Footer />
